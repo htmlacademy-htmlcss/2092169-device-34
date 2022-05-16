@@ -1,9 +1,8 @@
 # Личный проект «Девайс»
 
 * Студент: [Владимир Борисенков](https://up.htmlacademy.ru/htmlcss/34/user/2092169).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
----
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
